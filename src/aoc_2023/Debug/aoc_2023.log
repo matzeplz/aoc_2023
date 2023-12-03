@@ -1,0 +1,6 @@
+﻿  aoc_2023.cpp
+  day1.cpp
+C:\Users\matth\Documents\Studium\AdventofCode\2023\src\aoc_2023\day1.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+aoc_2023.obj : error LNK2019: unresolved external symbol "class day1 __cdecl firstsolution(void)" (?firstsolution@@YA?AVday1@@XZ) referenced in function _main
+C:\Users\matth\Documents\Studium\AdventofCode\2023\src\aoc_2023\Debug\aoc_2023.exe : fatal error LNK1120: 1 unresolved externals

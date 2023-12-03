@@ -18,5 +18,23 @@
     <ClCompile Include="aoc_2023.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="day1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="day2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="day1.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="day2.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="calibrationinput.txt" />
+    <Text Include="calibrationinputday2.txt" />
   </ItemGroup>
 </Project>
